@@ -1,0 +1,11 @@
+{
+  "name": "corefoo-rdf",
+  "version": "0.1.0",
+  "main": "corefoo-rdf.js",
+  "publishConfig": {
+    "registry": "https://npm.rainbird.ai"
+  },
+  "engines": {
+    "node": "4.2.2"
+  }
+}

@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/chrisholden/.nvm/v0.10.28/bin/node',
+1 verbose cli   '/Users/chrisholden/.nvm/v0.10.28/bin/npm',
+1 verbose cli   'link' ]
+2 info using npm@1.4.9
+3 info using node@v0.10.28
+4 verbose linkPkg /Users/chrisholden/Development
+5 error Error: ENOENT, open '/Users/chrisholden/Development/package.json'
+6 error If you need help, you may report this *entire* log,
+6 error including the npm and node versions, at:
+6 error     <http://github.com/npm/npm/issues>
+7 error System Darwin 14.3.0
+8 error command "/Users/chrisholden/.nvm/v0.10.28/bin/node" "/Users/chrisholden/.nvm/v0.10.28/bin/npm" "link"
+9 error cwd /Users/chrisholden/Development/corefoo-rdf
+10 error node -v v0.10.28
+11 error npm -v 1.4.9
+12 error path /Users/chrisholden/Development/package.json
+13 error code ENOENT
+14 error errno 34
+15 verbose exit [ 34, true ]
